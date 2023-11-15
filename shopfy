@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Zest Theme Website</title>
+  <!-- Include Zest Theme CSS here -->
+  <link rel="stylesheet" href="path/to/zest-theme.css">
+  <!-- Add any additional styles or custom stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>Your Website Name</h1>
+    <!-- Add navigation menu or links here -->
+  </header>
+
+  <!-- Main Content Section -->
+  <main>
+    <section>
+      <h2>Welcome to Your Zest Theme Website!</h2>
+      <p>This is a simple template using the Zest theme.</p>
+      <!-- Add your content here -->
+    </section>
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2023 Your Website Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
